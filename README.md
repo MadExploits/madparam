@@ -4,19 +4,19 @@ this tools using python3
 
 # ~ Usage ~
 ```
-python madparam.py -d evil.com
+python madparam.py -d target.com
 ```
 // this for list
 ```
-python madparam.py -l evil.com
+python madparam.py -l target.com
 ```
 // Saved to file
 ```
-python madparam.py -d evil.com -o log.out
+python madparam.py -d target.com -o log.out
 ```
 // Using proxy
 ```
-python madparam.py -d evil.com --proxy="localhost:8080"
+python madparam.py -d target.com --proxy="localhost:8080"
 ```
 # ~ installation ~
 ```
